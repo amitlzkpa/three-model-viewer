@@ -1,0 +1,36 @@
+# OS file structure
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+
+# Project libraries
+node_modules/
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*~
+*.log
+*.lock
+*.tmp
+*.tmp.*
+log.txt
+*.sublime-project
+*.sublime-workspace
+UserInterfaceState.xcuserstate
+
+dist/

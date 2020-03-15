@@ -1,0 +1,10 @@
+**/node_modules
+**/dist
+**/.vscode
+**/.idea
+
+# Files
+**/*~
+**/.env*
+**/.*ignore
+**/.DS_Store
