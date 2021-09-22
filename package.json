@@ -1,5 +1,5 @@
 {
-  "name": "lit-starter",
+  "name": "three-model-viewer",
   "version": "0.1.0",
   "main": "dist/app-bundle.js",
   "files": [
@@ -48,5 +48,7 @@
     "webpack-bundle-analyzer": "^3.6.1",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
